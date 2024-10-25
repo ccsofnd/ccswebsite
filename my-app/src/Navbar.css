@@ -1,0 +1,31 @@
+/* src/Navbar.css */
+
+.navbar {
+    background-color: #333; /* Dark background color */
+    padding: 1rem; /* Padding around the navbar */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  }
+  
+  .navbar ul {
+    list-style-type: none; /* Remove default bullet points */
+    display: flex; /* Align items in a row */
+    justify-content: space-around; /* Distribute space evenly */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+  }
+  
+  .navbar li {
+    display: inline; /* Keep list items inline */
+  }
+  
+  .navbar a {
+    color: white; /* Text color */
+    text-decoration: none; /* Remove underline from links */
+    padding: 0.5rem 1rem; /* Add padding for better clickability */
+    transition: background-color 0.3s; /* Smooth transition for hover effect */
+  }
+  
+  .navbar a:hover {
+    background-color: #575757; /* Change background color on hover */
+    border-radius: 5px; /* Add rounded corners on hover */
+  }

@@ -1,0 +1,17 @@
+ul {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0; /* Remove default padding */
+  }
+  
+  li {
+    margin: 10px 0; /* Add some spacing between links */
+  }
+  
+  a {
+    color: #007bff; /* Link color */
+    text-decoration: none; /* Remove underline */
+  }
+  
+  a:hover {
+    text-decoration: underline; /* Underline on hover */
+  }
