@@ -15,3 +15,6 @@ ul {
   a:hover {
     text-decoration: underline; /* Underline on hover */
   }
+  .text-center {
+    text-align: center;
+  }
