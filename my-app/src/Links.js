@@ -11,6 +11,9 @@ const Links = () => {
         <li><a href="https://groupme.com/join_group/102941123/BXXcsjml" target="_blank" rel="noopener noreferrer">JOIN GROUPME HERE</a></li>
         <li><a href="https://www.example4.com" target="_blank" rel="noopener noreferrer">Example Link 4</a></li>
       </ul>
+      <p>
+        Contact Information: ccs@nd.edu
+      </p>
     </div>
   );
 };
