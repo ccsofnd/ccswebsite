@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ccswebsite/static/css/main.be849b49.css",
+    "main.js": "/ccswebsite/static/js/main.b0b02fdd.js",
+    "static/js/453.ed3810f9.chunk.js": "/ccswebsite/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/ccswebsite/index.html",
+    "main.be849b49.css.map": "/ccswebsite/static/css/main.be849b49.css.map",
+    "main.b0b02fdd.js.map": "/ccswebsite/static/js/main.b0b02fdd.js.map",
+    "453.ed3810f9.chunk.js.map": "/ccswebsite/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be849b49.css",
+    "static/js/main.b0b02fdd.js"
+  ]
+}
