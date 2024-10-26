@@ -11,9 +11,10 @@ const App = () => {
       <div>
         <Navbar />
         <Routes>
-          <Route path="/" element={<Links />} />
+          <Route path="/links" element={<Links />} />
           <Route path="/events" element={<Events />} />
           <Route path="/admin" element={<Admin />} />
+          <Route path="/" element={<Links />} />
         </Routes>
       </div>
     </Router>
