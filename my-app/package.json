@@ -1,8 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "private": true,
-  
+  "private": false,
   "homepage": "https://ccsnd.github.io/ccswebsite",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
