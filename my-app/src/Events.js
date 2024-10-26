@@ -1,6 +1,6 @@
 import React from 'react';
 
-const About = () => {
+const Events = () => {
   return (
     <div>
         <h2>
@@ -12,4 +12,4 @@ const About = () => {
   );
 };
 
-export default About;
+export default Events;
