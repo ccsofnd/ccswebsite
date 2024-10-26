@@ -6,7 +6,9 @@ position: relative;
 width: 100%;
 padding-top: 60%; /* 16:9 Aspect Ratio */
 max-width: 1000px;    /* Maximum width for larger screens */
+min-width: 500px;
 max-height: 600px;   /* Maximum height */
+min-height: 300px;
 margin: auto;        /* Center the calendar */
 overflow: hidden;
 
