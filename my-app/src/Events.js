@@ -1,15 +1,18 @@
 import React from 'react';
-
+import './Events.css'
 const Events = () => {
   return (
-    <div>
+    <div className="text-center">
         <h2>
-            Maybe we can have an embedded google calendar api but as of now...
+            Calendar of events
         </h2>
-        <img src="/ron.jpg" alt="A cute cat" width="300" height="200"></img>
+        
         {/* Embed Google Calendar */}
         <iframe src="https://calendar.google.com/calendar/embed?src=c_2398dd66f60145fcc886b91b83917220a09921721a5f86de7992dd5873b62a07%40group.calendar.google.com&ctz=America%2FLos_Angeles" 
-        style="border: 0" width="800" height="600" frameborder="0">
+        style={{ border: '0', width: '800px', height: '600px', overflow: 'auto' }} 
+        
+        title="Google Calendar">
+
           
         </iframe>
     </div>
