@@ -1,7 +1,15 @@
 import React from 'react';
 
 const About = () => {
-  return <h2>About Page</h2>;
+  return (
+    <div>
+        <h2>
+            Maybe we can have an embedded google calendar api but as of now...
+        </h2>
+        <img src="public/ron.jpg" alt="A cute cat" width="300" height="200"></img>
+    </div>
+
+  );
 };
 
 export default About;
