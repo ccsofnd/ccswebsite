@@ -1,5 +1,5 @@
 import React from 'react';
-import './Links.css'
+import './Home.css'
 // import CCSLogo from './svg-logos/CCSLogo.js';
 import Payment from './svg-logos/Payment.js';
 import Calendar from './svg-logos/Calendar.js';
@@ -8,7 +8,7 @@ const Links = () => {
   const logosize = '100px'
   return (
     <div className="text-center">
-      <h2>Home Page</h2>
+      <h2>CHINESE CULTURAL SOCIETY</h2>
       <p className="home-page-text">Welcome to the home page for the Chinese Culture Society at Notre Dame, a student ran organization that promotes Chinese culure specifically through the lens of Chinese-Americans.<br /><br />We host numerous events throughout the year including mahjong game nights and dumpling making</p>
 
       <p>Here are some useful links:</p>
