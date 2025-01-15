@@ -4,6 +4,7 @@ import Navbar from './Navbar';
 import Home from './Home';
 import Events from './Events';
 import Admin from './Admin';
+import Footer from './Footer';
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
           <Route path="/" element={<Home />} />
         </Routes>
       </div>
+      <Footer />
     </Router>
   );
 };

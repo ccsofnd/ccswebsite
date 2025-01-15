@@ -1,8 +1,9 @@
+import './Admin.css';
 import React from 'react';
 
 const Admin = () => {
   return (
-    <div>
+    <div className="admin">
       <h2>Admin Stuff</h2>
       <img src="/ron.jpg" alt="A cute cat" width="300" height="200"></img>
       <div className="tenor-gif-embed" data-postid="16022601" data-share-method="host" data-aspect-ratio="1" data-width="100%">
