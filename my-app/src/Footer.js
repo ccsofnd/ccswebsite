@@ -1,5 +1,6 @@
 import './Footer.css'
 import { FaInstagram } from "react-icons/fa";
+import { MdOutlineEmail } from "react-icons/md";
 import NDLogo from './svg-logos/NDLogo';
 const Footer = () => {
 
@@ -8,8 +9,10 @@ const Footer = () => {
       <div className="footer">
         <div className="footer-left">
           <h1>Contact</h1>
-          <p>Email: <a href="mailto:ccs@nd.edu">CCS</a></p>
-          <FaInstagram size={32} />
+          <div>
+            <a href="mailto:ccs@nd.edu"><MdOutlineEmail size={32} /></a>
+            <a href="https://www.instagram.com/ccsofnd/" target="blank"><FaInstagram size={32} /></a>
+          </div>
           <p>&#169; 2025 Chinese Cultural Society</p>
         </div>
         <div className="footer-right">

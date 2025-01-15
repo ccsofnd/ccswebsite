@@ -39,7 +39,8 @@ footer {
 
 .footer-left a {
   text-decoration: none;
-  color: #5689b6;
+  /* color: #5689b6; */
+  color: white;
 }
 
 
