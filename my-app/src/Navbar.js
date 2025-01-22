@@ -111,6 +111,7 @@ const Navbar = () => {
                   </div>
                 </Link>
               </li>
+              
             </ul>
           </section>
         </>}

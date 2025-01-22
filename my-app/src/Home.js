@@ -9,7 +9,10 @@ const Links = () => {
   return (
     <div className="text-center">
       <h2>CHINESE CULTURAL SOCIETY</h2>
-      <p className="home-page-text">Welcome to the home page for the Chinese Culture Society at Notre Dame, a student ran organization that promotes Chinese culure specifically through the lens of Chinese-Americans.<br /><br />We host numerous events throughout the year including mahjong game nights and dumpling making</p>
+      <p className="home-page-text">Welcome to the home page for the Chinese Culture Society at Notre Dame,
+       a student ran organization that promotes Chinese culure specifically 
+       through the lens of Chinese-Americans.<br /><br />We host numerous 
+       events throughout the year including mahjong game nights and dumpling making</p>
 
       <p>Here are some useful links:</p>
       <ul>
