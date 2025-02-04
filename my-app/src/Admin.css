@@ -4,3 +4,9 @@
   justify-content: center;
   align-items: center;
 }
+
+.image-container {
+  display: flex;
+  justify-content: space-between; /* Optional: space between the images */
+  align-items: center; /* Optional: vertically center the images */
+}
