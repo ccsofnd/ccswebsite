@@ -10,9 +10,9 @@ const Links = () => {
     <div className="text-center">
       <h2>CHINESE CULTURAL SOCIETY</h2>
       <p className="home-page-text">Welcome to the home page for the Chinese Culture Society at Notre Dame,
-       a student ran organization that promotes Chinese culure specifically 
-       through the lens of Chinese-Americans.<br /><br />We host numerous 
-       events throughout the year including mahjong game nights and dumpling making</p>
+        a student ran organization that promotes Chinese culure specifically
+        through the lens of Chinese-Americans.<br /><br />We host numerous
+        events throughout the year including mahjong game nights and dumpling making</p>
 
       <p>Here are some useful links:</p>
       <ul>
@@ -22,9 +22,10 @@ const Links = () => {
         {/* <li><CCSLogo width={logosize} height={logosize} /><a href="https://www.example4.com" target="_blank" rel="noopener noreferrer">Example Link 4</a></li> */}
         <li><Instagram width={logosize} height={logosize} /><a href="https://www.instagram.com/ccsofnd/" target="_blank" rel="noopener noreferrer">INSTAGRAM</a></li>
       </ul>
-      <p>
-        Email: ccs@nd.edu
-      </p>
+      <h1>CCS SHOWCASE 2025</h1>
+      <div className="zodiacts">
+        <img src="/Zodiacts.jpg" id="zodiacts-img"></img>
+      </div>
     </div>
   );
 };

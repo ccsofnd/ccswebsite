@@ -55,3 +55,16 @@
   flex-direction: column;
   align-items: center;
 }
+
+.zodiacts {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 800px;
+}
+
+#zodiacts-img {
+  width: 50%;
+}
