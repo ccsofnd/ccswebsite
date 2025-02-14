@@ -8,6 +8,7 @@ const Admin = () => {
       <d1>The designers of this website</d1>
       <div class="image-container">
       <img src="/ron.jpg" alt="A cute cat" width="300" height="200"></img>
+      <img src="/cody.jpg" alt="A cute cat" width="200" height="250"></img>
       <img src="/cute-dragon-omocat.gif" alt="A cute charmander" width="300" height="300"></img>
       </div>
       <d1>Important Stuff for Board Members:</d1>

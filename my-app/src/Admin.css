@@ -7,6 +7,8 @@
 
 .image-container {
   display: flex;
+  flex-direction: column;
   justify-content: space-between; /* Optional: space between the images */
-  align-items: center; /* Optional: vertically center the images */
+  align-items: center;
+  gap: 20px;
 }
