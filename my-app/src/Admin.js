@@ -5,7 +5,7 @@ const Admin = () => {
   
   // State to manage password input and authentication status
   const [password, setPassword] = useState('');
-  const [isAuthenticated, setIsAuthenticated] = useState(true);
+  const [isAuthenticated, setIsAuthenticated] = useState(true);   // change to false for password functionality
 
   // Password to access the admin page (this is hardcoded, you can use an environment variable or backend logic)
   const correctPassword = 'asdf';
