@@ -13,7 +13,7 @@ const Admin = () => {
       </div>
       <d1>Important Stuff for Board Members:</d1>
       <li><a href="https://docs.google.com/spreadsheets/d/1Lry2lYUy9xDSLo9XxeeCrsQGXDA6Ze4-8SRGluJSngE/edit?gid=1413208263#gid=1413208263">LINK FOR TREASURER</a></li>
-      <a href="mailto:dshi2@nd.edu,eguo2@nd.edu,ccs@nd.edu?subject=Reimbursement%20Request&body=NETID:%0D%0ANDID:%0D%0AEVENT:%0D%0A">REQUEST REIMBUREMENT FOR OTHER BOARD MEMBERS</a>
+      <a href="mailto:owang3@nd.edu,kyee3@nd.edu,ccs@nd.edu?subject=Reimbursement%20Request&body=NETID:%0D%0ANDID:%0D%0AEVENT:%0D%0A">REQUEST REIMBUREMENT FOR OTHER BOARD MEMBERS</a>
 
     </div>
   );
