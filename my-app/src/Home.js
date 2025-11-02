@@ -18,7 +18,7 @@ const Links = () => {
       <ul>
         <li>
           <a
-            href="https://shop.nd.edu/C21688_ustores/web/product_detail.jsp?PRODUCTID=12029&SINGLESTORE=true" 
+            href="https://shop.nd.edu/C21688_ustores/web/store_cat.jsp?STOREID=8&SINGLESTORE=true&CATID=988" 
             target="_blank" 
             rel="noopener noreferrer">
             <div>
